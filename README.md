@@ -1,2 +1,2 @@
 # treetracker-service-templates
-Templates for 
+Templates for creating new treetracker services
